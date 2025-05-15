@@ -69,7 +69,10 @@ python main.py
 
 ```
 
-![Uygulama Ekranı](./arayuz.png)
+![Uygulama Ekranı](./Arayuz.png)
+
+![Sonuç Ekranı](./Sonuc.png)
+
 
 ### Çalışma Mantığı:
 
