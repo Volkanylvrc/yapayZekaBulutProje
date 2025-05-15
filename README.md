@@ -42,6 +42,8 @@ pip install torch torchvision matplotlib seaborn scikit-learn gradio
 
 ---
 
+
+
 ## Veri Seti Hazırlığı
 
 Veri seti klasör yapısı `torchvision.datasets.ImageFolder` formatına uygun olmalıdır. Örnek bir yapı aşağıdaki gibidir:
@@ -64,7 +66,10 @@ Projenin ana Python dosyasını çalıştırarak sistemi başlatabilirsiniz:
 
 ```bash
 python main.py
+
 ```
+
+![Uygulama Ekranı](./arayuz.png)
 
 ### Çalışma Mantığı:
 
