@@ -69,16 +69,16 @@ python main.py
 
 ```
 ## Arayüz
-```
+
 
 ![Uygulama Ekranı](./Arayuz.png)
-```
+
 
 
 ## Sonuç
-```
+
 ![Sonuç Ekranı](./Sonuc.png)
-```
+
 
 
 ### Çalışma Mantığı:
